@@ -1,0 +1,7 @@
+name = "tacoswebsite2"
+type = "javascript"  # or "webpack" if using a build system
+
+account_id = "72aa7941e28dad28fc4efabb110dd054"
+workers_dev = true
+route = ""
+zone_id = ""
